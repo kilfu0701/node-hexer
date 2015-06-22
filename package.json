@@ -1,5 +1,5 @@
 {
-  "name": "hexer",
+  "name": "string-hexer",
   "version": "0.0.1",
   "description": "Simple Hex encode/decode from string.",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kilfu0701/node-hexer"
+    "url": "https://github.com/kilfu0701/node-string-hexer"
   },
   "keywords": [
     "hex",
@@ -21,7 +21,7 @@
   "author": "kilfu0701 (BoRu Su)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kilfu0701/node-hexer/issues"
+    "url": "https://github.com/kilfu0701/node-string-hexer/issues"
   },
-  "homepage": "https://github.com/kilfu0701/node-hexer"
+  "homepage": "https://github.com/kilfu0701/node-string-hexer"
 }
