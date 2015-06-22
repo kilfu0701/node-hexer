@@ -1,0 +1,27 @@
+{
+  "name": "hexer",
+  "version": "0.0.1",
+  "description": "Simple Hex encode/decode from string.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kilfu0701/node-hexer"
+  },
+  "keywords": [
+    "hex",
+    "encode",
+    "decode",
+    "string"
+  ],
+  "author": "kilfu0701 (BoRu Su)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kilfu0701/node-hexer/issues"
+  },
+  "homepage": "https://github.com/kilfu0701/node-hexer"
+}
