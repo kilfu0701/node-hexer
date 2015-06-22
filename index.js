@@ -18,11 +18,6 @@
  * @license
  *    MIT
  */
-
-module.exports = function() {
-	return new Hexer();
-};
-
 function Hexer() {
     if(typeof String.prototype.hd === 'undefined') {
         String.prototype.hd = function(param) {
@@ -42,3 +37,5 @@ function Hexer() {
         };
     }
 };
+
+module.exports = new Hexer();
